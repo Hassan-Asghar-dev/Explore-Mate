@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Explore Mate</string>
+    <string name="underlined_text"><u><b>Not logged in? Signup</b></u></string>
+    <string name="underline_text"><u><b>Forgot Password?</b></u></string>
+
+
+</resources>
