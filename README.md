@@ -22,4 +22,7 @@ Page 4 -> landing page
 After the user logged in  a landing page will show , three cards will be shown 
 Asia, Europe,and Africa 
 
+
+All pictures are avaklible in the repository.
+
 More will be available.
